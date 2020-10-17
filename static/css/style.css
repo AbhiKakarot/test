@@ -1,0 +1,63 @@
+body{
+        font-family: 'Josefin Sans', sans-serif;
+        background-image: url('../images/back.png');
+        background-size:cover;
+        background-attachment: fixed;
+        background-repeat:no-repeat;
+        background-position: center center;
+
+}
+h1{
+  color: white;
+}
+ul{
+  color: white;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+#green-text{
+  color: #0cd5ac;
+}
+#topic{
+  font-size: 30px;
+}
+
+#logo{
+  height: auto;
+  width: 60px;
+}
+#heading{
+  text-align: inherit;
+  font-size: 35px;
+}
+hr{
+  width:22%;
+  text-align:left;
+  margin-left:20px;
+}
+#large{
+  font-size: 60px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.money{
+  font-size: 60px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.button{
+  background-color: #d9d9d9;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.date{
+  font-size: 30px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+#footer{
+  width:95%;
+  height: 3px;
+  margin-left: 20px;
+}
+.footer-text{
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+  font-size: 20px;
+}
