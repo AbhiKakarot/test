@@ -1,63 +1,76 @@
-body{
-        font-family: 'Josefin Sans', sans-serif;
-        background-image: url('../images/back.png');
-        background-size:cover;
-        background-attachment: fixed;
-        background-repeat:no-repeat;
-        background-position: center center;
-
+section{
+  font-family: 'Signika', sans-serif;
 }
-h1{
-  color: white;
+.head{
+  margin-left: 20%;
+  margin-right: 20%;
 }
-ul{
-  color: white;
-  font-size: 20px;
-  font-family: 'Josefin Sans', sans-serif;
+#snap{
+  color: #13adad;
+  font-size: 40px;
 }
-#green-text{
-  color: #0cd5ac;
+#full-snap{
+  color: black;
+  font-size: 25px;
 }
-#topic{
+.first-cont{
+  background-color:white;
+}
+.logo{
+  width: auto;
+  height: 40px;
+  margin-left: 10px;
+}
+.second-cont{
   font-size: 30px;
+  color: #000000;
+  background-image: url('../images/back_.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  height: 500px;;
 }
-
-#logo{
+#apply{
+  font-size: 40px;
+  color: #154b55;
+}
+#people{
+  width: 90px;
   height: auto;
-  width: 60px;
+  margin-left: 30px;
 }
-#heading{
-  text-align: inherit;
-  font-size: 35px;
-}
-hr{
-  width:22%;
-  text-align:left;
-  margin-left:20px;
-}
-#large{
-  font-size: 60px;
-  font-family: 'Josefin Sans', sans-serif;
-}
-.money{
-  font-size: 60px;
-  font-family: 'Josefin Sans', sans-serif;
-}
-.button{
-  background-color: #d9d9d9;
-  font-family: 'Josefin Sans', sans-serif;
-}
-.date{
-  font-size: 30px;
-  font-family: 'Josefin Sans', sans-serif;
-}
-#footer{
-  width:95%;
-  height: 3px;
-  margin-left: 20px;
-}
-.footer-text{
-  font-family: 'Josefin Sans', sans-serif;
-  color: white;
+.skill{
+  color: #154b55;
   font-size: 20px;
+}
+.third-cont{
+  font-size: 20px;
+}
+#one{
+  color:#825653;
+}
+#two{
+  color:#10c9c9;
+}
+#third{
+  color:#99671d;
+}
+.main-div{
+  position: relative;
+}
+.sub-div{
+  position: absolute;
+  bottom: 0px;
+  margin-left: 20%;
+}
+#image{
+  border-radius: 50%;
+  width: 150px;
+  height: auto;
+}
+#name{
+  color: #13adad;
+}
+.instructors{
+  background-color:#faf1e6;
 }
