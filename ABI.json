@@ -1,6 +1,4 @@
-{
-	"address": "0x545D1bd80cECF5E5e0082745C1Cf006e4c7179aa",
-	"jsonInterface": [
+[
 		{
 			"inputs": [
 				{
@@ -919,4 +917,3 @@
 			"signature": "0x3ccfd60b"
 		}
 	]
-}
